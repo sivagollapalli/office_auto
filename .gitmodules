@@ -1,0 +1,6 @@
+[submodule "vendor/engines/leave"]
+	path = vendor/engines/leave
+	url = git@github.com:sivagollapalli/leave_module.git
+[submodule "vendor/engines/employe"]
+	path = vendor/engines/employe
+	url = git@github.com:sivagollapalli/employee_module.git
